@@ -15,5 +15,12 @@
             <artifactId>junit-jupiter-api</artifactId>
             <version>5.7.0</version>
         </dependency>
+
+        <dependency>
+            <groupId>com.google.guava</groupId>
+            <artifactId>guava</artifactId>
+            <version>30.0-jre</version>
+        </dependency>
+
     </dependencies>
 </project>
